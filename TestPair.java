@@ -8,7 +8,7 @@ public class TestPair {
 		Pair<Float,Integer> p2 = new Pair<Float,Integer>(23.2f,21345);
 		Pair<String,String> p3 = new Pair<String,String>("Tito","El Bambino");
 		Pair<Float,Character> p4 = new Pair<Float,Character>(25.1f,'C');
-		Pair<String,String> p5 = new Pair<String,String>("Alberto","El Carnicero");
+		Pair<String,String> p5 = new Pair<String,String>("Hernan","El Carnicero");
 		
 		System.out.println("p1: "+p1);
 		System.out.println("p2: "+p2);
